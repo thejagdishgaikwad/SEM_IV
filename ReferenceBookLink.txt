@@ -1,0 +1,4 @@
+Since the Math and Embedded System Reference Book is of more than 50mb, cant upload it here directly!
+But You Can Get Those From The Links Below
+a. Maths (https://docs.google.com/file/d/0B6mmcxyrKnEhRnR6V2dpcVNMdGM/edit?pli=1&resourcekey=0-DVMQQCK72nmllARyFKZj5A)
+b. Embedded Systems (https://ia903100.us.archive.org/16/items/K.ShibuIntroductionToEmbeddedSystemsTmh2009/K.%20Shibu-Introduction%20To%20Embedded%20Systems-Tmh%20%282009%29.pdf)
